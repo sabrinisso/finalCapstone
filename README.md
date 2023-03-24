@@ -13,7 +13,7 @@ This is a program for a bookstore database that allows a clerk to add, update, d
 1. Clone the repository to your local machine.
 2. Install Python 3 and SQLite3 on your machine if you haven't already.
 3. Open the terminal and navigate to the project directory.
-4. Run the command `python bookstore.py` to start the program.
+4. Run the command `Bookstore DB program.py` to start the program.
 
 ## Usage
 
